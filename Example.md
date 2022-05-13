@@ -25,3 +25,4 @@ You can add a linebreak by adding <br/> a \<br/> in your line
 
 To insert a hyperlink into text you do [Peak](https://rroll.to/DF6BCU)
 
+To insert an image into text you do ![Alt Text](/qqMonk.png)
